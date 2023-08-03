@@ -1,8 +1,9 @@
 import React from 'react'
-
+import construction from '../../assets/const.png'
+import { RegD } from './Register.style'
 const Register = () => {
   return (
-    <div>Register</div>
+    <RegD><img src={construction} alt="" /></RegD>
   )
 }
 

@@ -110,6 +110,8 @@ Build a Clarus Library using ReactJS.
 
 - Step 3 : Using api key and `axios` for getting data from `https://www.googleapis.com/books/v1/volumes?q=${query}&printType=${printType}&key=${APP_KEY}`.
 
+AIzaSyD7uIkO9eZ62Hin2CKObxqlTt2yAaX2S_I
+
 - Step 4: You are expected to code your project with **styled component**
 
 - Step 5 : You can get random login background image from `https://picsum.photos/1600/900`

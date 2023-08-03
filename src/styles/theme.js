@@ -12,7 +12,8 @@ export const lightTheme = {
       detailColor: "rgb(5,5,5)",
       linkHoverColor: "rgb(5,5,5)",
       headerFormColor: "rgba(15, 63, 42, 0.36)",
-      logincolor:"darkslategray"
+      logincolor:"darkslategray",
+      inputColor:"white",
     },
     screens: {
       lg: "992px",
@@ -29,7 +30,8 @@ export const lightTheme = {
       detailColor: "white",
       linkHoverColor: "bisque",
       headerFormColor: "rgba(255, 255, 255, 0.46)",
-      logincolor:"rgb(5,5,5)"
+      logincolor:"rgb(5,5,5)",
+      inputColor:"rgba(255, 255, 255, 0.5)",
     },
     screens: {
       lg: "992px",
