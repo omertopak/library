@@ -50,3 +50,5 @@ const Header = () => {
 }
 
 export default Header
+
+//handle islemi en iyi yontemi ve context ile get datayi kullanma yolu
